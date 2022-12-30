@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/RepRapPro/Huxley" 
+#define CONFIG_EXAMPLES_DIR "RepRapPro/Huxley"
 
 /**
  * Configuration.h

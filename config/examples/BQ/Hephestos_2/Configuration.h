@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BQ/Hephestos_2" 
+#define CONFIG_EXAMPLES_DIR "BQ/Hephestos_2"
 
 /**
  * Configuration.h

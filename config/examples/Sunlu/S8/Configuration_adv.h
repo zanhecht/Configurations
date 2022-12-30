@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Sunlu/S8" 
+#define CONFIG_EXAMPLES_DIR "Sunlu/S8"
 
 /**
  * Configuration_adv.h

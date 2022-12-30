@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/ADIMLab/Gantry v2" 
+#define CONFIG_EXAMPLES_DIR "ADIMLab/Gantry v2"
 
 /**
  * Configuration.h

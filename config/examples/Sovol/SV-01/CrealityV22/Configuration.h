@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Sovol/SV-01/CrealityV22" 
+#define CONFIG_EXAMPLES_DIR "Sovol/SV-01/CrealityV22"
 
 // @section custom
 //#define SV01_3DTOUCH // Enable for 3D Touch / BLTouch

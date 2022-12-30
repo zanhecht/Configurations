@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Velleman/K8800" 
+#define CONFIG_EXAMPLES_DIR "delta/Velleman/K8800"
 
 /**
  * Configuration_adv.h

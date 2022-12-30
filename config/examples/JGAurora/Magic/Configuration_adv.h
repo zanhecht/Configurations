@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/JGAurora/Magic" 
+#define CONFIG_EXAMPLES_DIR "JGAurora/Magic"
 
 /**
  * Configuration_adv.h

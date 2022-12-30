@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Daycom/3DP-100" 
+#define CONFIG_EXAMPLES_DIR "Daycom/3DP-100"
 
 /**
  * Configuration_adv.h

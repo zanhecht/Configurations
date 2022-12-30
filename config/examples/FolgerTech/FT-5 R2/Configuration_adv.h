@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FolgerTech/FT-5 R2" 
+#define CONFIG_EXAMPLES_DIR "FolgerTech/FT-5 R2"
 
 /**
  * Configuration_adv.h

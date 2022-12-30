@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Eryone/Thinker SE" 
+#define CONFIG_EXAMPLES_DIR "Eryone/Thinker SE"
 
 //#define THINKERV2_BLTOUCH  // Enable for an installed BLTOUCH
 //#define THINKERV2_FL  //Enable for an installed Filament runout sensor

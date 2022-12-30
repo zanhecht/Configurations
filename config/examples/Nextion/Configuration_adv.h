@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Nextion" 
+#define CONFIG_EXAMPLES_DIR "Nextion"
 
 /**
  * Configuration_adv.h

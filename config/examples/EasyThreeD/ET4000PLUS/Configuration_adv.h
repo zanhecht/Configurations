@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/EasyThreeD/ET4000PLUS" 
+#define CONFIG_EXAMPLES_DIR "EasyThreeD/ET4000PLUS"
 
 /**
  * Configuration_adv.h

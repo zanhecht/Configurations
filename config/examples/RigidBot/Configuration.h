@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/RigidBot" 
+#define CONFIG_EXAMPLES_DIR "RigidBot"
 
 /**
  * Configuration.h

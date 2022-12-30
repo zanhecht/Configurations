@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/kossel_clear" 
+#define CONFIG_EXAMPLES_DIR "delta/kossel_clear"
 
 /**
  * Configuration_adv.h

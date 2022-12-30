@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Two Trees/BlueR/BlueR V1" 
+#define CONFIG_EXAMPLES_DIR "Two Trees/BlueR/BlueR V1"
 
 //#define BLUER_TMC2209 // Enable for the TMC2209 driver version
 //#define BLUER_BLTOUCH // Enable if you want to use BLTOUCH

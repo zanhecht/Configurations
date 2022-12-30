@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/SCARA/Morgan" 
+#define CONFIG_EXAMPLES_DIR "SCARA/Morgan"
 
 /**
  * Configuration_adv.h

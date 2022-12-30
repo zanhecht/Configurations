@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/CTC/A13" 
+#define CONFIG_EXAMPLES_DIR "CTC/A13"
 
 /**
  * Configuration_adv.h

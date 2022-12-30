@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/Ender-3/TH3D EZBoard Lite V2" 
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/TH3D EZBoard Lite V2"
 
 /**
  * Configuration_adv.h

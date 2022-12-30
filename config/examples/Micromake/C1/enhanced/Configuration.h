@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Micromake/C1/enhanced" 
+#define CONFIG_EXAMPLES_DIR "Micromake/C1/enhanced"
 
 /**
  * Configuration.h

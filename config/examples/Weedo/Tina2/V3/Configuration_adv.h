@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Weedo/Tina2/V3" 
+#define CONFIG_EXAMPLES_DIR "Weedo/Tina2/V3"
 
 /**
  * Configuration_adv.h

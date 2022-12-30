@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/AliExpress/UM2pExt" 
+#define CONFIG_EXAMPLES_DIR "AliExpress/UM2pExt"
 
 /**
  * Configuration.h

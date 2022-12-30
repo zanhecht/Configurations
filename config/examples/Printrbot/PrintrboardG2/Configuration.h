@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Printrbot/PrintrboardG2" 
+#define CONFIG_EXAMPLES_DIR "Printrbot/PrintrboardG2"
 
 /**
  * Configuration.h

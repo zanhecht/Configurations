@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Artillery/Sidewinder X1/V1" 
+#define CONFIG_EXAMPLES_DIR "Artillery/Sidewinder X1/V1"
 
 /**
  * Configuration_adv.h

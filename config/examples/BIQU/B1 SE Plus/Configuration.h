@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIQU/B1 SE Plus" 
+#define CONFIG_EXAMPLES_DIR "BIQU/B1 SE Plus"
 
 /**
  * Configuration.h

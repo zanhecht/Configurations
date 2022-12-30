@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIQU/B1 - SKR 2" 
+#define CONFIG_EXAMPLES_DIR "BIQU/B1 - SKR 2"
 
 /**
  * Configuration_adv.h

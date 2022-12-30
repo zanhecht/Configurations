@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Simulator" 
+#define CONFIG_EXAMPLES_DIR "Simulator"
 
 /**
  * Configuration.h

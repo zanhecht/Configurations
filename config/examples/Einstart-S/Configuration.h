@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Einstart-S" 
+#define CONFIG_EXAMPLES_DIR "Einstart-S"
 
 /**
  * Configuration.h

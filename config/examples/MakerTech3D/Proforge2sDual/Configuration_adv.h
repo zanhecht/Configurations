@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/MakerTech3D/Proforge2sDual" 
+#define CONFIG_EXAMPLES_DIR "MakerTech3D/Proforge2sDual"
 
 /**
  * Configuration_adv.h

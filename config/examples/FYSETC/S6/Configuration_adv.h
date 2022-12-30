@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FYSETC/S6" 
+#define CONFIG_EXAMPLES_DIR "FYSETC/S6"
 
 /**
  * Configuration_adv.h

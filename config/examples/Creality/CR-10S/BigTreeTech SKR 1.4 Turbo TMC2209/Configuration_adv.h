@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-10S/BigTreeTech SKR 1.4 Turbo TMC2209" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-10S/BigTreeTech SKR 1.4 Turbo TMC2209"
 
 /**
  * Configuration_adv.h

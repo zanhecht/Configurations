@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/AnyCubic/Chiron" 
+#define CONFIG_EXAMPLES_DIR "AnyCubic/Chiron"
 
 /**
  * Configuration.h

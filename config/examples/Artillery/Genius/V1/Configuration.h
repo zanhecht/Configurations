@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Artillery/Genius/V1" 
+#define CONFIG_EXAMPLES_DIR "Artillery/Genius/V1"
 
 /**
  * Configuration.h

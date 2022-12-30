@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Labists/ET4" 
+#define CONFIG_EXAMPLES_DIR "Labists/ET4"
 
 /**
  * Configuration.h

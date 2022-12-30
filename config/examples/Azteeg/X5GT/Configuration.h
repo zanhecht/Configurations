@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Azteeg/X5GT" 
+#define CONFIG_EXAMPLES_DIR "Azteeg/X5GT"
 
 /**
  * Configuration.h

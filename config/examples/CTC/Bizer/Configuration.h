@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/CTC/Bizer" 
+#define CONFIG_EXAMPLES_DIR "CTC/Bizer"
 
 /**
  * Configuration.h

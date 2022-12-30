@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/FLSUN/auto_calibrate" 
+#define CONFIG_EXAMPLES_DIR "delta/FLSUN/auto_calibrate"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Zonestar/P802M" 
+#define CONFIG_EXAMPLES_DIR "Zonestar/P802M"
 
 /**
  * Configuration_adv.h

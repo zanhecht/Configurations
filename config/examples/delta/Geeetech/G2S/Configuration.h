@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Geeetech/G2S" 
+#define CONFIG_EXAMPLES_DIR "delta/Geeetech/G2S"
 
 /**
  * Configuration.h

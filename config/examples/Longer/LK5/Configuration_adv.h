@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Longer/LK5" 
+#define CONFIG_EXAMPLES_DIR "Longer/LK5"
 
 /**
  * Configuration_adv.h

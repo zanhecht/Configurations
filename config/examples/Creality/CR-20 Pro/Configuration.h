@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-20 Pro" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-20 Pro"
 
 /**
  * Configuration.h

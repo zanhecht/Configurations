@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Opulo/Lumen_REV3" 
+#define CONFIG_EXAMPLES_DIR "Opulo/Lumen_REV3"
 
 /**
  * Configuration_adv.h

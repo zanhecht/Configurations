@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/gCreate/gMax1.5+" 
+#define CONFIG_EXAMPLES_DIR "gCreate/gMax1.5+"
 
 /**
  * Configuration.h

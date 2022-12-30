@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Cartesio" 
+#define CONFIG_EXAMPLES_DIR "Cartesio"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Dreammaker/Overlord_Pro" 
+#define CONFIG_EXAMPLES_DIR "delta/Dreammaker/Overlord_Pro"
 
 /**
  * Configuration_adv.h

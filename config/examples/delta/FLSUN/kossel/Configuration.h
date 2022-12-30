@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/FLSUN/kossel" 
+#define CONFIG_EXAMPLES_DIR "delta/FLSUN/kossel"
 
 /**
  * Configuration.h

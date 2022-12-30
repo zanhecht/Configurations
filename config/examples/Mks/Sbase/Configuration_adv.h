@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Mks/Sbase" 
+#define CONFIG_EXAMPLES_DIR "Mks/Sbase"
 
 /**
  * Configuration_adv.h

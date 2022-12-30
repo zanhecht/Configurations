@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/AnyCubic/i3 Mega/Trigorilla AVR" 
+#define CONFIG_EXAMPLES_DIR "AnyCubic/i3 Mega/Trigorilla AVR"
 
 //#define I3MEGA_HAS_BLTOUCH
 //#define I3MEGA_HAS_TMC2208

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FolgerTech/i3-2020" 
+#define CONFIG_EXAMPLES_DIR "FolgerTech/i3-2020"
 
 /**
  * Configuration.h

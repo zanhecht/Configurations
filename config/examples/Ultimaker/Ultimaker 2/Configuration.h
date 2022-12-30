@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Ultimaker/Ultimaker 2" 
+#define CONFIG_EXAMPLES_DIR "Ultimaker/Ultimaker 2"
 
 // Tip: Search for TUNE to find common upgrades for the Ultimaker 2!
 

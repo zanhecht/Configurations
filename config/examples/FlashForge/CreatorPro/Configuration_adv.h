@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FlashForge/CreatorPro" 
+#define CONFIG_EXAMPLES_DIR "FlashForge/CreatorPro"
 
 /**
  * Configuration_adv.h

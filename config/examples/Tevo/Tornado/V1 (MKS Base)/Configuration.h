@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tevo/Tornado/V1 (MKS Base)" 
+#define CONFIG_EXAMPLES_DIR "Tevo/Tornado/V1 (MKS Base)"
 
 /**
  * Configuration.h

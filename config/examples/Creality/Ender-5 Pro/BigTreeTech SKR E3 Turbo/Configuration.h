@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/Ender-5 Pro/BigTreeTech SKR E3 Turbo" 
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-5 Pro/BigTreeTech SKR E3 Turbo"
 
 // Enable this option for BLTouch support
 //#define E5_USE_BLTOUCH

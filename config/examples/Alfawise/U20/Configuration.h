@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Alfawise/U20" 
+#define CONFIG_EXAMPLES_DIR "Alfawise/U20"
 
 /**
  * Configuration.h

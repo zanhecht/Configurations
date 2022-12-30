@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Wanhao/Duplicator i3 Plus" 
+#define CONFIG_EXAMPLES_DIR "Wanhao/Duplicator i3 Plus"
 
 /**
  * Configuration.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/linear_axes/Octopus 8 LINEAR_AXES" 
+#define CONFIG_EXAMPLES_DIR "linear_axes/Octopus 8 LINEAR_AXES"
 
 /**
  * Configuration.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/Ender-3/BigTreeTech SKR E3 Turbo/2-into-1 Hotend" 
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/BigTreeTech SKR E3 Turbo/2-into-1 Hotend"
 
 /**
  * Configuration.h

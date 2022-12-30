@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tevo/Nereus" 
+#define CONFIG_EXAMPLES_DIR "Tevo/Nereus"
 
 /**
  * Configuration_adv.h

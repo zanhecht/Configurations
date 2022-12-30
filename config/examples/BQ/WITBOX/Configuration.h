@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BQ/WITBOX" 
+#define CONFIG_EXAMPLES_DIR "BQ/WITBOX"
 
 /**
  * Configuration.h

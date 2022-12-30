@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/HMS434" 
+#define CONFIG_EXAMPLES_DIR "HMS434"
 
 /**
  * Configuration_adv.h

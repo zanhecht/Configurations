@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tinkerine/Ditto Pro/RAMPS 1.4" 
+#define CONFIG_EXAMPLES_DIR "Tinkerine/Ditto Pro/RAMPS 1.4"
 
 /**
  * Configuration.h

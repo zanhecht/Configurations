@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tronxy/X5S-2E/Red Board (Tronxy 3.1.0)" 
+#define CONFIG_EXAMPLES_DIR "Tronxy/X5S-2E/Red Board (Tronxy 3.1.0)"
 
 /**
  * Configuration.h

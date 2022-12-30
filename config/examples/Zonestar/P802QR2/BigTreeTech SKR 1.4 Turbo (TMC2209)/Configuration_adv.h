@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Zonestar/P802QR2/BigTreeTech SKR 1.4 Turbo (TMC2209)" 
+#define CONFIG_EXAMPLES_DIR "Zonestar/P802QR2/BigTreeTech SKR 1.4 Turbo (TMC2209)"
 
 /**
  * Configuration_adv.h

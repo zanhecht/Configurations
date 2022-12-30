@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/WASP/PowerWASP" 
+#define CONFIG_EXAMPLES_DIR "WASP/PowerWASP"
 
 /**
  * Configuration_adv.h

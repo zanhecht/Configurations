@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/Ender-3 V2 Neo" 
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3 V2 Neo"
 
 /**
  * Configuration.h

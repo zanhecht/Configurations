@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIBO/TouchX/cyclops" 
+#define CONFIG_EXAMPLES_DIR "BIBO/TouchX/cyclops"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FoamCutter/rcKeith" 
+#define CONFIG_EXAMPLES_DIR "FoamCutter/rcKeith"
 
 /**
  * Configuration_adv.h

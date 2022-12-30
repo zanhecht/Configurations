@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tronxy/XY100" 
+#define CONFIG_EXAMPLES_DIR "Tronxy/XY100"
 
 /**
  * Configuration.h

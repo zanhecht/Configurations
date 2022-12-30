@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Kingroon/KP3S" 
+#define CONFIG_EXAMPLES_DIR "Kingroon/KP3S"
 
 /**
  * Configuration.h

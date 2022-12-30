@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/MakerParts" 
+#define CONFIG_EXAMPLES_DIR "MakerParts"
 
 /**
  * Configuration.h

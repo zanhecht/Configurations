@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-30 PrintMill" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-30 PrintMill"
 
 /**
  * Configuration_adv.h

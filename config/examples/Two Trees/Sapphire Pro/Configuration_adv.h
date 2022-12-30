@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Two Trees/Sapphire Pro" 
+#define CONFIG_EXAMPLES_DIR "Two Trees/Sapphire Pro"
 
 /**
  * Configuration_adv.h

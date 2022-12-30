@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/FlyingBear/P905H" 
+#define CONFIG_EXAMPLES_DIR "FlyingBear/P905H"
 
 /**
  * Configuration.h

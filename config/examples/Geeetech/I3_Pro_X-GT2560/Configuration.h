@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Geeetech/I3_Pro_X-GT2560" 
+#define CONFIG_EXAMPLES_DIR "Geeetech/I3_Pro_X-GT2560"
 
 /**
  * Configuration.h

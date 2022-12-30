@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Ultimaker/Ultimaker Original (1.5.7)" 
+#define CONFIG_EXAMPLES_DIR "Ultimaker/Ultimaker Original (1.5.7)"
 
 /**
  * Configuration_adv.h

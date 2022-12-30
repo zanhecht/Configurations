@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-20/RepRapWorld Minitronics20" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-20/RepRapWorld Minitronics20"
 
 /**
  * Configuration.h

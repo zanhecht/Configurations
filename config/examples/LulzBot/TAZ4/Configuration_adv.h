@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/LulzBot/TAZ4" 
+#define CONFIG_EXAMPLES_DIR "LulzBot/TAZ4"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Qidi/Qidi 1" 
+#define CONFIG_EXAMPLES_DIR "Qidi/Qidi 1"
 
 /**
  * Configuration_adv.h

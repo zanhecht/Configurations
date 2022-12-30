@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/AnyCubic/i3 Mega/Trigorilla Pro STM32" 
+#define CONFIG_EXAMPLES_DIR "AnyCubic/i3 Mega/Trigorilla Pro STM32"
 
 /**
  * Configuration_adv.h

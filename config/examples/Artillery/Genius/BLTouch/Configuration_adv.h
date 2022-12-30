@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Artillery/Genius/BLTouch" 
+#define CONFIG_EXAMPLES_DIR "Artillery/Genius/BLTouch"
 
 /**
  * Configuration_adv.h

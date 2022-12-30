@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Two Trees/Sapphire Plus/Sapphire Plus V2.1" 
+#define CONFIG_EXAMPLES_DIR "Two Trees/Sapphire Plus/Sapphire Plus V2.1"
 
 //#define SAPPHIRE_PLUS_MKS_UI
 //#define SAPPHIRE_PLUS_BLTOUCH

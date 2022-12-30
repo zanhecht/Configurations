@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-10 Mini/BigTreeTech SKR Mini E3 2.0" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-10 Mini/BigTreeTech SKR Mini E3 2.0"
 
 /**
  * Configuration_adv.h

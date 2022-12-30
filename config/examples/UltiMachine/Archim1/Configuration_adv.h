@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/UltiMachine/Archim1" 
+#define CONFIG_EXAMPLES_DIR "UltiMachine/Archim1"
 
 /**
  * Configuration_adv.h

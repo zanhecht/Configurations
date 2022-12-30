@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/FLSUN/Q5-nano_v2" 
+#define CONFIG_EXAMPLES_DIR "delta/FLSUN/Q5-nano_v2"
 
 /**
  * Configuration.h

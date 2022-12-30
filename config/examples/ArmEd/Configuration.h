@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/ArmEd" 
+#define CONFIG_EXAMPLES_DIR "ArmEd"
 
 /**
  * Configuration.h

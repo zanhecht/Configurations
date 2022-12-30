@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Tronxy/X5S-2E/Green Board (Chitu V5)" 
+#define CONFIG_EXAMPLES_DIR "Tronxy/X5S-2E/Green Board (Chitu V5)"
 
 /**
  * Configuration.h

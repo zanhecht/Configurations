@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Sovol/SV-01/BigTreeTech SKR Mini E3 3.0" 
+#define CONFIG_EXAMPLES_DIR "Sovol/SV-01/BigTreeTech SKR Mini E3 3.0"
 
 /**
  * Configuration.h

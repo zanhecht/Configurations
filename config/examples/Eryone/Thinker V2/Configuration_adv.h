@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Eryone/Thinker V2" 
+#define CONFIG_EXAMPLES_DIR "Eryone/Thinker V2"
 
 /**
  * Configuration_adv.h

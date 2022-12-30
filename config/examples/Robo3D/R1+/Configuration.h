@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Robo3D/R1+" 
+#define CONFIG_EXAMPLES_DIR "Robo3D/R1+"
 
 /**
  * Configuration.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIQU/BX" 
+#define CONFIG_EXAMPLES_DIR "BIQU/BX"
 
 //#define MOTHERBOARD BOARD_BTT_SKR_SE_BX_V3 // Uncomment for the V3.0 board, otherwise V2.0 is assumed
 //#define BX_ALL_METAL_HOTEND // Uncomment for newer H2 extruder with all metal heatbreak

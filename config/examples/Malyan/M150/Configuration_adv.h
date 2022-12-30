@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Malyan/M150" 
+#define CONFIG_EXAMPLES_DIR "Malyan/M150"
 
 /**
  * Configuration_adv.h

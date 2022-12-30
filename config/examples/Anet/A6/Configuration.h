@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Anet/A6" 
+#define CONFIG_EXAMPLES_DIR "Anet/A6"
 
 /**
  * Configuration.h

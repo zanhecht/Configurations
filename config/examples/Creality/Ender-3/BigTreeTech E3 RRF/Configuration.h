@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/Ender-3/BigTreeTech E3 RRF" 
+#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/BigTreeTech E3 RRF"
 
 /**
  * Configuration.h

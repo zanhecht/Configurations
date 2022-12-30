@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Malyan M300" 
+#define CONFIG_EXAMPLES_DIR "delta/Malyan M300"
 
 /**
  * Configuration.h

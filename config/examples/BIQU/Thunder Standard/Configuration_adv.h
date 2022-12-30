@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIQU/Thunder Standard" 
+#define CONFIG_EXAMPLES_DIR "BIQU/Thunder Standard"
 
 /**
  * Configuration_adv.h

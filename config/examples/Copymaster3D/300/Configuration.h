@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Copymaster3D/300" 
+#define CONFIG_EXAMPLES_DIR "Copymaster3D/300"
 
 /**
  * Configuration.h

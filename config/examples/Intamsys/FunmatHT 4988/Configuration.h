@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Intamsys/FunmatHT 4988" 
+#define CONFIG_EXAMPLES_DIR "Intamsys/FunmatHT 4988"
 
 /**
  * Configuration.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Printrbot/Simple Metal RevD" 
+#define CONFIG_EXAMPLES_DIR "Printrbot/Simple Metal RevD"
 
 /**
  * Configuration.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Polargraph" 
+#define CONFIG_EXAMPLES_DIR "Polargraph"
 
 /**
  * Configuration.h

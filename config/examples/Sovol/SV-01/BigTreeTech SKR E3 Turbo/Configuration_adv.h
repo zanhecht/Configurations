@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Sovol/SV-01/BigTreeTech SKR E3 Turbo" 
+#define CONFIG_EXAMPLES_DIR "Sovol/SV-01/BigTreeTech SKR E3 Turbo"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/generic" 
+#define CONFIG_EXAMPLES_DIR "delta/generic"
 
 /**
  * Configuration_adv.h

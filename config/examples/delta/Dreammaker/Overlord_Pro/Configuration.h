@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Dreammaker/Overlord_Pro" 
+#define CONFIG_EXAMPLES_DIR "delta/Dreammaker/Overlord_Pro"
 
 // Overlord Pro needs larger PSU than stock PSU. Uncomment `#define OVERLORD_PRO_UPGRADED_PSU` to enable heated bed. See README.md for more details.
 //#define OVERLORD_PRO_UPGRADED_PSU

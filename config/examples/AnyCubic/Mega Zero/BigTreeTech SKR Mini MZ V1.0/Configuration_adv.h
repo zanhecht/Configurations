@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/AnyCubic/Mega Zero/BigTreeTech SKR Mini MZ V1.0" 
+#define CONFIG_EXAMPLES_DIR "AnyCubic/Mega Zero/BigTreeTech SKR Mini MZ V1.0"
 
 /**
  * Configuration_adv.h

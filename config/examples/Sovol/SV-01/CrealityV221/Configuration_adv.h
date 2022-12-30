@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Sovol/SV-01/CrealityV221" 
+#define CONFIG_EXAMPLES_DIR "Sovol/SV-01/CrealityV221"
 
 /**
  * Configuration_adv.h

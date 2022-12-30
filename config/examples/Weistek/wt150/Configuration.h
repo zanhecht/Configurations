@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Weistek/wt150" 
+#define CONFIG_EXAMPLES_DIR "Weistek/wt150"
 
 /**
  * Configuration.h

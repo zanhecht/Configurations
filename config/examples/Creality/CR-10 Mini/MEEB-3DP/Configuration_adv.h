@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Creality/CR-10 Mini/MEEB-3DP" 
+#define CONFIG_EXAMPLES_DIR "Creality/CR-10 Mini/MEEB-3DP"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Infitary/i3-M508" 
+#define CONFIG_EXAMPLES_DIR "Infitary/i3-M508"
 
 /**
  * Configuration_adv.h

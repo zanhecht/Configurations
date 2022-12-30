@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Raiscube/A8r" 
+#define CONFIG_EXAMPLES_DIR "Raiscube/A8r"
 
 /**
  * Configuration_adv.h

@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/MBot/Cube" 
+#define CONFIG_EXAMPLES_DIR "MBot/Cube"
 
 /**
  * Configuration.h

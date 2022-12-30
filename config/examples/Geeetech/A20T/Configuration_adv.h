@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Geeetech/A20T" 
+#define CONFIG_EXAMPLES_DIR "Geeetech/A20T"
 
 /**
  * Configuration_adv.h

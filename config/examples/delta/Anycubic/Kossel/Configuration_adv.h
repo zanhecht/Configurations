@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/delta/Anycubic/Kossel" 
+#define CONFIG_EXAMPLES_DIR "delta/Anycubic/Kossel"
 
 /**
  * Configuration_adv.h

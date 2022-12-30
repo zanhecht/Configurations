@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIBO/TouchX/default" 
+#define CONFIG_EXAMPLES_DIR "BIBO/TouchX/default"
 
 /**
  * Configuration.h

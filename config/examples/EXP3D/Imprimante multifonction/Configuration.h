@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/EXP3D/Imprimante multifonction" 
+#define CONFIG_EXAMPLES_DIR "EXP3D/Imprimante multifonction"
 
 /**
  * Configuration.h

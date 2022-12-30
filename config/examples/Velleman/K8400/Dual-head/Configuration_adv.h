@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/Velleman/K8400/Dual-head" 
+#define CONFIG_EXAMPLES_DIR "Velleman/K8400/Dual-head"
 
 /**
  * Configuration_adv.h

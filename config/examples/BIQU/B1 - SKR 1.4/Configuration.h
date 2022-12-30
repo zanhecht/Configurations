@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "config/examples/BIQU/B1 - SKR 1.4" 
+#define CONFIG_EXAMPLES_DIR "BIQU/B1 - SKR 1.4"
 
 // Enable this option for BLTouch support
 //#define B1_USE_BLTOUCH
